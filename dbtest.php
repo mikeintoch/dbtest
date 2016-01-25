@@ -1,9 +1,9 @@
 <?php
 $dbhost = getenv("MYSQL_SERVICE_HOST");
 $dbport = getenv("MYSQL_SERVICE_PORT");
-$dbuser = getenv("MYSQL_USER");
-$dbname = getenv("MYSQL_DATABASE");
-$dbpwd = getenv("MYSQL_PASSWORD");
+$dbuser = getenv("miguel");
+$dbname = getenv("sample");
+$dbpwd = getenv("miguel");
  
 
 
